@@ -1034,29 +1034,7 @@
   width:118px;
   word-wrap:break-word;
 }
-#u917_img {
-  position:absolute;
-  left:-4px;
-  top:-4px;
-  width:60px;
-  height:60px;
-}
-#u917 {
-  position:absolute;
-  left:879px;
-  top:228px;
-  width:50px;
-  height:50px;
-}
-#u918 {
-  position:absolute;
-  left:2px;
-  top:17px;
-  width:46px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u919_div {
+#u917_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -1070,14 +1048,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u919 {
+#u917 {
   position:absolute;
   left:201px;
   top:100px;
   width:814px;
   height:60px;
 }
-#u920 {
+#u918 {
   position:absolute;
   left:2px;
   top:22px;
@@ -1085,14 +1063,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u921 {
+#u919 {
   position:absolute;
   left:216px;
   top:115px;
   width:195px;
   height:25px;
 }
-#u921_input {
+#u919_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -1106,11 +1084,49 @@
   color:#000000;
   text-align:left;
 }
-#u922_div {
+#u920_div {
   position:absolute;
   left:0px;
   top:0px;
   width:89px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 0.498039215686275);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u920 {
+  position:absolute;
+  left:421px;
+  top:115px;
+  width:89px;
+  height:25px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+#u921 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:85px;
+  word-wrap:break-word;
+}
+#u922_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:107px;
   height:25px;
   background:inherit;
   background-color:rgba(25, 158, 216, 0.498039215686275);
@@ -1127,9 +1143,9 @@
 }
 #u922 {
   position:absolute;
-  left:421px;
+  left:893px;
   top:115px;
-  width:89px;
+  width:107px;
   height:25px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -1141,62 +1157,24 @@
   position:absolute;
   left:2px;
   top:4px;
-  width:85px;
-  word-wrap:break-word;
-}
-#u924_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:107px;
-  height:25px;
-  background:inherit;
-  background-color:rgba(25, 158, 216, 0.498039215686275);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-}
-#u924 {
-  position:absolute;
-  left:893px;
-  top:115px;
-  width:107px;
-  height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-}
-#u925 {
-  position:absolute;
-  left:2px;
-  top:4px;
   width:103px;
   word-wrap:break-word;
 }
-#u926_img {
+#u924_img {
   position:absolute;
   left:-4px;
   top:-4px;
   width:60px;
   height:60px;
 }
-#u926 {
+#u924 {
   position:absolute;
   left:980px;
   top:120px;
   width:50px;
   height:50px;
 }
-#u927 {
+#u925 {
   position:absolute;
   left:2px;
   top:17px;
@@ -1204,16 +1182,16 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u928_img {
+#u926_img {
   position:absolute;
   left:0px;
   top:0px;
   width:33px;
   height:19px;
 }
-#u928 {
+#u926 {
   position:absolute;
-  left:967px;
+  left:939px;
   top:228px;
   width:33px;
   height:19px;
@@ -1222,28 +1200,28 @@
   color:#0000FF;
   text-align:center;
 }
-#u929 {
+#u927 {
   position:absolute;
   left:0px;
   top:0px;
   width:33px;
   white-space:nowrap;
 }
-#u930_img {
+#u928_img {
   position:absolute;
   left:-4px;
   top:-4px;
   width:60px;
   height:60px;
 }
-#u930 {
+#u928 {
   position:absolute;
-  left:1000px;
-  top:228px;
+  left:966px;
+  top:203px;
   width:50px;
   height:50px;
 }
-#u931 {
+#u929 {
   position:absolute;
   left:2px;
   top:17px;
